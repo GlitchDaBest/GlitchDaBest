@@ -24,15 +24,6 @@ I'm a tech-driven creator, always tweaking code, optimizing servers, modding han
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GlitchDaBest&show_icons=true&theme=tokyonight&count_private=true" alt="Enzo's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=GlitchDaBest&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
-
----
-
 ### 🎵 Currently On Rotation
 
 > *"Good sound isn't heard, it's felt in the bass."* 🔊
