@@ -1,4 +1,4 @@
-# Hi, I'm Enzo! 👋
+# Hi, I'm Glitch! 👋
 
 ⚡ **Tech Enthusiast | Music Producer | Hardware Modder**
 
